@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Landing-Page
 Website by Kirsten Cramer Putman
 Utilizing HTML and CSS basic code writing tools.
