@@ -2,7 +2,7 @@
 # Landing-Page
 Website by Kirsten Cramer Putman
 Utilizing HTML and CSS basic code writing tools.
-https://github.com/kcramer53/Landing-Page
+https://kcramer.github.io/Landing-Page
 =======
 #### _Utilizing html, 5.31.2019_
 
