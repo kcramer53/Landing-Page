@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Landing-Page
 Website by Kirsten Cramer Putman
 Utilizing HTML and CSS basic code writing tools.
@@ -21,5 +21,5 @@ _Website showcasing how far behind I am and how difficult coding is for me._
 No known bugs.
 *This software is liscensed under MIT software*
 
-Copyright (c) 2016 **_Kyle Bulloch & John Franti_**
+Copyright (c) 2019 **_Kirsten Cramer Putman_**
 >>>>>>> 95979838141494c7fb45cf4655217c56d6de4423
