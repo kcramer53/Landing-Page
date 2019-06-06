@@ -1,9 +1,13 @@
 h1 {
   font-size: 20px;
-  color:pink;
+  color:green;
   font-family: fantasy;
 }
 
 h2 {
   font-size: 15px;
+}
+.underline {
+  text-decoration: underline;
+
 }
