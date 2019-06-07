@@ -21,4 +21,4 @@ No known bugs.
 *This software is liscensed under MIT software*
 
 Copyright (c) 2016 **_Kirsten Cramer Putman_**
->>>>>>> 95979838141494c7fb45cf4655217c56d6de4423
+
